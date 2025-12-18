@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+requests
+sqlite-utils
+openpyxl
+xgboost
+joblib
+numpy
+scikit-learn

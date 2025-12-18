@@ -1,0 +1,7 @@
+I divided the system into two parts for customers and business owners. Business owners log in using email, with features separated by role. A simple help bot guides users on searching and adding businesses. The customer section shows recently added businesses with short, clear search results.
+
+Difficulty that i faced in owner side if i add new business but it cannot add in recent added business in business owner side 
+
+Also faced problem in output part when seached business in not databases it online search but not get proper details
+
+working on that and try to improve streamlit UI
